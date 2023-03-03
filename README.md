@@ -1,3 +1,7 @@
+# Patika.dev Ödevi İçin Hazırlanan Hava Durumu Applikasyonu
+- WeatherContext.js içinde veriler alındı. WeatherProvider ile export edildi.
+- Container.js içinde verilerin yerleşmesi ve görseli hazırlandı.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
